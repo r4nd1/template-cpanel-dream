@@ -1,5 +1,4 @@
-# Dream
-Free Bootstrap Admin Template - Dream
+# Free Bootstrap Admin Template - Dream
 
 Dream Admin is a free Bootstrap admin template. This template build on Bootstrap 3 framework along with HTML5 CSS3 and very usefull jQuery plugins to create a amazing modren admin panels, web apps, or back-end dashboards multipurpose theme. This theme is fully responsive web compatible with multi browser and devices.
 
